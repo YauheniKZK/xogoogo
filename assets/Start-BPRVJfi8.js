@@ -1,0 +1,1 @@
+import{c as s,t as a,o as n}from"./index-Ca-n6voi.js";const _=(t,e)=>{const o=t.__vccOpts||t;for(const[c,r]of e)o[c]=r;return o},l={},f={class:"flex flex-col grow start-page"};function p(t,e){return n(),s("div",f,a("Start page"))}const d=_(l,[["render",p]]);export{d as default};

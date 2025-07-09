@@ -1,1 +1,0 @@
-import{d as e,c as a,a as o,u as n,R as r,o as s}from"./index-CUHQ0TVK.js";const _=e({__name:"Index",setup(t){return(c,l)=>(s(),a("div",null,[o(n(r),{class:"flex flex-col grow"})]))}});export{_ as default};

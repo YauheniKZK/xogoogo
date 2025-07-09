@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as e,t as o,o as r}from"./index-h7kaqDj1.js";const a={},c={class:"flex flex-col grow start-page"};function s(n,_){return r(),e("div",c,o("Start page"))}const i=t(a,[["render",s]]);export{i as default};
